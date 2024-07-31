@@ -1,7 +1,7 @@
 # Forecasting Australian Automotive Fuel Inventories
  Using prophet to predict and forecast future Australian automotive fuel sales, imports, production, exports, and inventory levels.
 
- ## Overview
+## Overview
 The premise of this project was to analyse past Australian automotive fuel sales, imports, production, exports, and inventory levels and create a predictive model to forecast future outlooks.
 
 To conduct this, historical Australian automotive fuel data was obtained for the 2010-2023 period, and future prices were forecasted from 2024-2029.
@@ -65,3 +65,7 @@ Based on historical data and trend, it is interesting to highlight that by 2024,
 As illustrated in the chart, the overall trend of Australia's inventory/stock on hand of automotive gasoline remains at a steady rate. This trend may perhaps be due to the need for the nation to ensure optimal/healthy supply of automotive gasoline for national usage and backup. 
 <br></br>
 Based on historical data and trend, it is interesting to highlight that although the total inventory of automotive gasoline remains consistent and steady, there is an overall declining trend of automotive gasoline on hand.
+
+## References
+
+Department of Climate Change, Energy, the Environment and Water, <i>Australian Petroleum Statistics 2024</i>, https://www.energy.gov.au/publications/australian-petroleum-statistics-2024
